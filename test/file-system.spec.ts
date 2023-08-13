@@ -1,4 +1,4 @@
-import { Archivo, Directorio } from './file-system';
+import { Archivo, Directorio } from '../src/domain/file-system';
 
 describe('FileSystem', () => {
   describe('Un archivo', () => {
